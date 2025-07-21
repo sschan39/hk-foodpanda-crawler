@@ -217,16 +217,6 @@ A: Yes! Use custom coordinates or modify the `validate_coordinates()` function.
 **Q: Why do results vary between runs?**  
 A: Restaurant availability and FoodPanda's algorithms can affect results.
 
-**Q: Is this legal to use?**  
-A: Yes, for educational/research purposes. Respect rate limits and ToS.
-
-## 🔗 Links
-
-- **[Complete Documentation](DOCUMENTATION.md)** - Full technical guide
-- **[Issues](https://github.com/yourusername/foodpanda-hk-crawler/issues)** - Bug reports and feature requests
-- **[Releases](https://github.com/yourusername/foodpanda-hk-crawler/releases)** - Download executables
-- **[Wiki](https://github.com/yourusername/foodpanda-hk-crawler/wiki)** - Additional resources
-
 ## � Stats
 
 - **Lines of Code**: ~700+
@@ -234,12 +224,6 @@ A: Yes, for educational/research purposes. Respect rate limits and ToS.
 - **Data Fields**: 24 restaurant attributes
 - **Locations**: 29 predefined + unlimited custom
 - **Output Formats**: Excel (3 sheets)
-
-## 🎉 Acknowledgments
-
-- FoodPanda Hong Kong for providing the data platform
-- Python community for excellent libraries (requests, pandas, openpyxl)
-- Hong Kong open data community for location references
 
 ---
 
@@ -259,6 +243,6 @@ Feel free to submit issues, suggestions, or improvements!
 
 ---
 
-**Author**: FoodPanda Crawler Team  
+**Author**: sschan
 **Version**: 1.0  
 **Last Updated**: July 2025
