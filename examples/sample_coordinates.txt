@@ -1,0 +1,33 @@
+# Sample Coordinate File
+# Format: longitude,latitude,area_name
+# Use this file as a template for batch processing
+
+# Hong Kong Island Popular Areas
+114.1578,22.2842,Central Business District
+114.1693,22.2783,Causeway Bay Shopping
+114.1722,22.2783,Wan Chai Commercial
+
+# Kowloon Major Areas  
+114.2107,22.3223,Tsim Sha Tsui Tourist Area
+114.2029,22.3193,Mong Kok Shopping District
+114.2281,22.3193,Yau Ma Tei Market Area
+
+# New Territories
+114.2642,22.3736,Sha Tin New Town
+114.1194,22.3669,Tsuen Wan Industrial
+114.0742,22.4456,Yuen Long Rural
+
+# University Areas (Custom Examples)
+114.2642,22.3736,CUHK Vicinity
+114.1194,22.3669,HKUST Area
+114.1849,22.2818,HKU Campus
+
+# Transportation Hubs
+114.1578,22.2842,Central MTR Hub
+114.2107,22.3223,TST Ferry Terminal
+114.0500,22.3117,Tung Chung Airport Express
+
+# Residential Areas
+114.1889,22.2667,Happy Valley Residential
+114.2347,22.3139,Ho Man Tin Housing
+114.3556,22.4175,Ma On Shan New Development
